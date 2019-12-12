@@ -17,14 +17,14 @@ X2\
 …\
 CC\
 MC\
-#
+\#
 
 (Refer to *in.txt* for an example)
 
 ### Output Format
 F(X1)\
 F(X2)\
-…\
+…
 
 ### Running the code
 1. To compile
