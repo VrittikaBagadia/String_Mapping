@@ -8,22 +8,23 @@ Conversion is a function F that takes in a string and returns another string. Al
 Once all strings have been converted the matching step just matches characters at each position. The matching cost between two characters is given by a symmetric function MC(c1, c2) where c1 and c2 are two characters ϵ V U {-}. Matching cost of two strings is the sum of matching costs of their conversions at each position. Finally, the matching cost of K strings is the sum of pairwise matching costs between each pair.
 
 ### Input Format
-Time (in mins)
-|V|
-V
-K
-X1
-X2
-…
-CC
-MC
+Time (in mins)\
+|V|\
+V\
+K\
+X1\
+X2\
+…\
+CC\
+MC\
 #
+
 (Refer to *in.txt* for an example)
 
 ### Output Format
-F(X1)
-F(X2)
-…
+F(X1)\
+F(X2)\
+…\
 
 ### Running the code
 1. To compile
